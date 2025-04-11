@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev Seravali 🦄
 
  <div>
-   <a href="https://github.com/dev">
+   <a href="https://github.com/devseravali">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devalines&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalines&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
