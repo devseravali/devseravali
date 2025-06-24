@@ -16,8 +16,9 @@
 
 ## 📊 Estatísticas do GitHub
 ![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devseravali)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=)
+![GitHub Streak](https://streak-stats.demolab.com?user=devseravali)](https://streak-stats.demolab.com?user=devseravali)
+
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seravali/)
