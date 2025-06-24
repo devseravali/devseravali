@@ -22,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali&theme=tokyonight)](https://streak-stats.demolab.com?user=devseravali)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali&background=0D1117&currStreakLabel=7AA2F7&ring=BB9AF7&fire=FF7C7C&sideLabels=7AA2F7&sideNums=7AA2F7&dates=A9B1D6)](https://streak-stats.demolab.com?user=devseravali)
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seravali/)
