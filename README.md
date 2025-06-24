@@ -15,10 +15,12 @@
 - Foco em **colaboração**, **organização** e **evolução constante**
 
 ## 📊 Estatísticas do GitHub
-![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali)](https://streak-stats.demolab.com?user=devseravali)
 
+![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali&theme=dark)](https://streak-stats.demolab.com?user=devseravali)
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seravali/)
