@@ -16,8 +16,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 ![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=tokyonight)
