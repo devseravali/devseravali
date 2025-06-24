@@ -16,11 +16,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=dark&hide_title=true)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=dark)
+![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devseravali&show_icons=true&theme=tokyonight&hide_title=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali&theme=dark)](https://streak-stats.demolab.com?user=devseravali)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devseravali&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devseravali&theme=tokyonight)](https://streak-stats.demolab.com?user=devseravali)
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-seravali/)
