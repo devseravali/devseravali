@@ -1,7 +1,7 @@
 # 👋 Oi! Eu sou a Aline — também conhecida como Dev Seravali
 
-🚀 Desenvolvedora Full Stack
-Formada, com foco em desenvolvimento web e evolução contínua por meio de projetos práticos e estudo constante.
+🚀 **Desenvolvedora Full Stack**
+Experiência prática em front-end e back-end, com foco em boas práticas, performance e organização de código. 
 
 💻 Criando aplicações completas com **React**, **Styled Components**, **TypeScript** e **Tailwind CSS** no Front-End, e **Node.js**, **Express**, **PostgreSQL** e **Prisma** no Back-End, buscando oportunidades como **Full Stack**, **Front-End** ou **Back-End Júnior**.
 
