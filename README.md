@@ -1,7 +1,7 @@
 # 👋 Oi! Eu sou a Aline — também conhecida como Dev Seravali
 
-🌱 **Desenvolvedora Full Stack em formação**  
-Estudando diariamente com a [DevQuest](https://devquest.com.br) e a [Rocketseat](https://www.rocketseat.com.br) 🚀  
+🚀 Desenvolvedora Full Stack
+Formada, com foco em desenvolvimento web e evolução contínua por meio de projetos práticos e estudo constante.
 
 💻 Criando aplicações completas com **React**, **Styled Components**, **TypeScript** e **Tailwind CSS** no Front-End, e **Node.js**, **Express**, **PostgreSQL** e **Prisma** no Back-End, buscando oportunidades como **Full Stack**, **Front-End** ou **Back-End Júnior**.
 
