@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Aline Seravali | Dev Seravali
 
-### 🚀 Desenvolvedora Full Stack Júnior | React • Next.js • TypeScript • Node.js
+### 🚀 Desenvolvedora Full Stack | React • Next.js • TypeScript • Node.js
 
 [🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
@@ -9,13 +9,13 @@
 # 🇧🇷 Português
 ## 👩‍💻 Sobre mim
 
-Sou Desenvolvedora Full Stack Júnior com experiência prática no desenvolvimento de aplicações web e APIs REST.
+Sou Desenvolvedora Full Stack com experiência prática no desenvolvimento de aplicações web e APIs REST.
 
 Atuo no desenvolvimento **Front-End e Back-End** utilizando **React, Next.js, TypeScript, Node.js, Express e PostgreSQL**, com foco em boas práticas, organização de código, responsividade e resolução de problemas.
 
 Também possuo conhecimentos em **testes automatizados, Docker, CI/CD, GitHub Actions e AWS**.
 
-🎯 Busco oportunidades como **Desenvolvedora Full Stack, Front-End ou Back-End Júnior**.
+🎯 Busco oportunidades como **Desenvolvedora Full Stack, Front-End ou Back-End**.
 
 ---
 
@@ -180,16 +180,15 @@ Concluída em 2025
 ---
 
 # 🇺🇸 English
-
 ## 👩‍💻 About Me
 
-I am a Junior Full Stack Developer with hands-on experience building web applications and REST APIs.
+I am a Full Stack Developer with hands-on experience building web applications and REST APIs.
 
 I work across **Front-End and Back-End development** using **React, Next.js, TypeScript, Node.js, Express, and PostgreSQL**, with a focus on best practices, clean code, responsive design, and problem-solving.
 
 I also have knowledge of **automated testing, Docker, CI/CD, GitHub Actions, and AWS**.
 
-🎯 I am seeking opportunities as a **Junior Full Stack, Front-End, or Back-End Developer**.
+🎯 I am seeking opportunities as a **Full Stack, Front-End, or Back-End Developer**.
 
 ---
 
@@ -307,6 +306,7 @@ Web-based delivery system developed to simulate a complete order flow.
 Web application for browsing and filtering anime titles.
 
 **Technologies:** HTML5 • CSS3 • JavaScript
+
 **Highlights:**
 * Custom filters
 * Light and dark theme
@@ -319,7 +319,6 @@ Web application for browsing and filtering anime titles.
 ---
 
 ## 📚 Currently Learning
-
 * Next.js
 * Full Stack Development
 * CI/CD
@@ -348,7 +347,5 @@ Completed in 2025
 
 ## 📫 Contact Me
 🌐 [Portfolio](https://devseravali.com/)
-
 💼 [LinkedIn](https://www.linkedin.com/in/dev-seravali/)
-
 💻 [GitHub](https://github.com/devseravali/)
